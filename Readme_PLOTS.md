@@ -10,6 +10,6 @@
 
 [pie_figure.html](https://htmlpreview.github.io/?https://raw.githubusercontent.com/altayavci/LeBronJames_Analysis_ML/main/plots/pie_figure.html)
 
-[sunbrust_figure.html](https://htmlpreview.github.io/?https://raw.githubusercontent.com/altayavci/DataAnalysis/main/LebronJamesAnalysis/plots/sunburst_figure.html)
+[sunbrust_figure.html](https://htmlpreview.github.io/?https://raw.githubusercontent.com/altayavci/LeBronJames_Analysis_ML/main/plots/sunburst_figure.html)
 
 [tremap_figure.html](https://htmlpreview.github.io/?https://raw.githubusercontent.com/altayavci/DataAnalysis/main/LebronJamesAnalysis/plots/treemap_figure.html)
