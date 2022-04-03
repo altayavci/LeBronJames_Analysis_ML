@@ -1,4 +1,4 @@
-[area_figure.html](https://htmlpreview.github.io/?https://raw.githubusercontent.com/altayavci/DataAnalysis/main/LebronJamesAnalysis/plots/area_figure.html)
+[area_figure.html](https://htmlpreview.github.io/?https://raw.githubusercontent.com/altayavci/LeBronJames_Analysis_ML/main/plots/area_figure.html)
 
 [bar_figure.html](https://htmlpreview.github.io/?https://raw.githubusercontent.com/altayavci/DataAnalysis/main/LebronJamesAnalysis/plots/bar_figure.html)
 
