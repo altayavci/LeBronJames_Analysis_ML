@@ -2,7 +2,7 @@
 
 [bar_figure.html](https://htmlpreview.github.io/?https://raw.githubusercontent.com/altayavci/LeBronJames_Analysis_ML/main/plots/bar_figure.html)
 
-[density_figure.html](https://htmlpreview.github.io/?https://raw.githubusercontent.com/altayavci/DataAnalysis/main/LebronJamesAnalysis/plots/density_figure.html)
+[density_figure.html](https://htmlpreview.github.io/?https://raw.githubusercontent.com/altayavci/LeBronJames_Analysis_ML/main/plots/density_figure.html)
 
 [ecdf_figure.html](https://htmlpreview.github.io/?https://raw.githubusercontent.com/altayavci/DataAnalysis/main/LebronJamesAnalysis/plots/ecdf_figure.html)
 
