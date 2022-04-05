@@ -1,4 +1,4 @@
-## First of all, thank you to ESPN.com and LeBron James for this project :)
+## First of all, thanks to ESPN.com and LeBron James for this project :)
 
 ### During the Data Preparation phase: 
 I got the data from ESPN.com by web scraping, using the request library, which LeBron James' stats of at all-time. Since this data I get is year-year, date format did not fit the proper datetime format.So I defined quite a few functions to edit the date column and make it workable. In addition to this, I have defined a function for this in order to look at the in-game and out-game performance. 
