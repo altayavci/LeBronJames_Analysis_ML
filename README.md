@@ -1,7 +1,7 @@
-## First of all, thanks to ESPN.com and LeBron James for this project :)
+## First of all, thanks to nba_api and LeBron James for this project :)
 
 ### During the Data Preparation phase: 
-I got the data from ESPN.com by web scraping, using the request library, which LeBron James' regular seaoson stats of at all-time. Since this data I get is year-year, date format did not fit the proper datetime format.So I defined quite a few functions to edit the date column and make it workable. In addition to this, I have defined a function for this in order to look at the in-game and out-game performance. 
+I got the data from nba_api. nba_api is open source api. After the getting data, I defined quite a few functions to edit the date column and make it workable. In addition to this, I have defined a function for this in order to look at the in-game and out-game performance. 
 
 ### In the Analysis and Plots phase:
 I showed that the data workable with simple but functional numerical analyzes (mean PTS per season etc.). Also, when examining triple-double and double-double statistics from the data using combination methods, I noticed that the NBA counts triple-double as a double-double as well. I think the counting method that the NBA has is wrong. Because triple-double and double-double are different sets. triple-double does not include double-double. In the plots part, I visualized the data I have according to various categories with libraries such as plotly, matplotlib and seaborn. Plotly plots on Readme_Plots.md
